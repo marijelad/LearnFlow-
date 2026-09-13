@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-label="Databases course illustration">
+    <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0F766E"/><stop offset="1" stop-color="#22C55E"/></linearGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="40"/></filter></defs>
+    <rect width="1200" height="700" rx="38" fill="#0b1020"/>
+    <circle cx="1040" cy="80" r="220" fill="#22C55E" opacity=".35" filter="url(#blur)"/>
+    <circle cx="160" cy="650" r="260" fill="#0F766E" opacity=".28" filter="url(#blur)"/>
+    <rect x="70" y="70" width="1060" height="560" rx="32" fill="url(#g)" opacity=".9"/>
+    <g opacity=".25" fill="none" stroke="#fff" stroke-width="4">
+      <path d="M120 520 C300 340, 390 610, 570 410 S850 260, 1090 360"/>
+      <path d="M130 200 L300 300 L430 180 L620 330 L800 190 L1040 260"/>
+      <circle cx="930" cy="500" r="85"/><circle cx="930" cy="500" r="48"/>
+    </g>
+    <text x="110" y="330" font-family="Arial, sans-serif" font-weight="800" font-size="150" fill="#fff">SQL</text>
+    <text x="118" y="415" font-family="Arial, sans-serif" font-weight="600" font-size="52" fill="#fff" opacity=".9">Databases</text>
+    <rect x="110" y="485" width="240" height="14" rx="7" fill="#fff" opacity=".85"/>
+    <rect x="110" y="520" width="350" height="14" rx="7" fill="#fff" opacity=".35"/>
+    </svg>
